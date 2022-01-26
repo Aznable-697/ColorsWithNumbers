@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\HitsWithColor.exe
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\HitsWithColor.deps.json
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\HitsWithColor.runtimeconfig.json
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\HitsWithColor.runtimeconfig.dev.json
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\HitsWithColor.dll
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\ref\HitsWithColor.dll
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\bin\Debug\net5.0\HitsWithColor.pdb
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.AssemblyInfo.cs
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.dll
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\ref\HitsWithColor.dll
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.pdb
+C:\Users\User\Desktop\Csharp_Projects\HitsWithColor\HitsWithColor\obj\Debug\net5.0\HitsWithColor.genruntimeconfig.cache
