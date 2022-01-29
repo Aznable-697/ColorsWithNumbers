@@ -6,15 +6,16 @@ using System.Globalization;
 
 namespace RandomHits
 {
-    public class Program
+    public partial class Program 
     {
-        // private static readonly object GetHits;
-
+        private static Random _random = new Random();
+        private static ConsoleColor GetRandomConsoleColor()
+        {
+            var consoleColors = Enum.GetValues(typeof(ConsoleColor));
+            return (ConsoleColor)consoleColors.GetValue(_random.Next(consoleColors.Length));
+        }
         public static void Main()
         {
-
-
-
 
             List<Hits> hit = new();
             string userInput = "";
@@ -22,19 +23,19 @@ namespace RandomHits
 
             do
             {
-
-                foreach (ConsoleColor color in Enum.GetValues(typeof(ConsoleColor)))
+                                
                 {
-                    Console.ForegroundColor = color;
+                    Console.ForegroundColor = GetRandomConsoleColor();
 
-                    AddHits(hit);            
-                    
+                    AddHits(hit);
+                    Console.ResetColor();
 
                     Console.WriteLine("To EXIT PROGRAM, Type \"exit\" or hit enter to go again.");
+
                     userInput = Console.ReadLine();
                 }
             } while (userInput != "exit");
-
+            Console.ResetColor();
 
             // hit.ForEach((Hits) => { Console.WriteLine(Hits.GetHits); });
 
@@ -56,7 +57,7 @@ namespace RandomHits
 
                 Console.WriteLine($"----------- Hit enter to continue -----------");
                 Console.WriteLine(rand_num);
-                Console.ReadLine();
+               
 
             }
 
@@ -64,12 +65,6 @@ namespace RandomHits
 
 
         }
-        public class Hits
-        {
-            public int GetHits { get; set; }
-
-
-        }
-
+      
     }
 }
